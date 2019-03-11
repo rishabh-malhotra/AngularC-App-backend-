@@ -11903,11 +11903,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#ang-app\\DatingApp\\DatingApp.API\\DatingApp.csproj",
+      "projectUniqueName": "D:\\Csharpang-app\\DatingApp\\DatingApp.API\\DatingApp.csproj",
       "projectName": "DatingApp",
-      "projectPath": "D:\\C#ang-app\\DatingApp\\DatingApp.API\\DatingApp.csproj",
+      "projectPath": "D:\\Csharpang-app\\DatingApp\\DatingApp.API\\DatingApp.csproj",
       "packagesPath": "C:\\Users\\rishabhmalhotra\\.nuget\\packages\\",
-      "outputPath": "D:\\C#ang-app\\DatingApp\\DatingApp.API\\obj\\",
+      "outputPath": "D:\\Csharpang-app\\DatingApp\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
